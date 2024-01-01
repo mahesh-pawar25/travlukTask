@@ -1,0 +1,152 @@
+{
+    "data": [
+        {
+            "id": 1,
+            "name": "Home",
+            "subMenu": [
+                {
+                    "id": 101,
+                    "name": "All"
+                },
+                {
+                    "id": 102,
+                    "name": "Movies"
+                },
+                {
+                    "id": 103,
+                    "name": "TV Shows"
+                }
+            ]
+        },
+        {
+            "id": 2,
+            "name": "Store",
+            "subMenu": [
+                {
+                    "id": 201,
+                    "name": "All"
+                },
+                {
+                    "id": 202,
+                    "name": "Rents"
+                },
+                {
+                    "id": 203,
+                    "name": "Channels"
+                }
+            ]
+        },
+        {
+            "id": 3,
+            "name": "Live TV"
+          
+        },
+        {
+            "id": 4,
+            "name": "Categories",
+            "subMenu": [
+                {
+                    "id": 401,
+                    "name": "Genres",
+                    "childSubMenu": [
+                        {
+                            "id": 4001,
+                            "name": "Action and adventure"
+                        },
+                        {
+                            "id": 4002,
+                            "name": "Horror"
+                        },
+                        {
+                            "id": 4003,
+                            "name": "Anime"
+                        },
+                        {
+                            "id": 4004,
+                            "name": "Kids"
+                        },
+                        {
+                            "id": 4005,
+                            "name": "Comedy"
+                        },
+                        {
+                            "id": 4006,
+                            "name": "Mystery and thrillers"
+                        },
+                        {
+                            "id": 4007,
+                            "name": "Documentary"
+                        },
+                        {
+                            "id": 4008,
+                            "name": "Romance"
+                        },
+                        {
+                            "id": 4009,
+                            "name": "Drama"
+                        },
+                        {
+                            "id": 4010,
+                            "name": "Science fiction"
+                        },
+                        {
+                            "id": 4011,
+                            "name": "Fantasy"
+                        }
+                    ]
+                },
+                {
+                    "id": 402,
+                    "name": "Featured Collections",
+                    "childSubMenu": [
+                        {
+                            "id": 4012,
+                            "name": "Hindi"
+                        },
+                        {
+                            "id": 4013,
+                            "name": "Kannada"
+                        },
+                        {
+                            "id": 4014,
+                            "name": "English"
+                        },
+                        {
+                            "id": 4015,
+                            "name": "Marathi"
+                        },
+                        {
+                            "id": 4016,
+                            "name": "Telugu"
+                        },
+                        {
+                            "id": 4017,
+                            "name": "Punjabi"
+                        },
+                        {
+                            "id": 4018,
+                            "name": "Tamil"
+                        },
+                        {
+                            "id": 4019,
+                            "name": "Gujrati"
+                        },
+                        {
+                            "id": 4020,
+                            "name": "Malayalam"
+                        },
+                        {
+                            "id": 4021,
+                            "name": "Bengali"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 5,
+            "name": "My Stuff"
+          
+        }
+    ]
+}
