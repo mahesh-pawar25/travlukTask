@@ -1,3 +1,30 @@
+# First Step - Git Clone
+
+Use👉👉 "git clone https://github.com/mahesh-pawar25/travlukTask.git"
+
+# Second Step - Open Project and Open cmd
+
+Use👉👉 "code ."  for open Vscode
+
+# Third Step - Open Terminal in your Vscode and run command
+
+Use👉👉 "npm install"
+
+# Fourth Step - Project Run
+
+Use👉👉 "ng serve"
+
+# fifth Step - Open browser and run below link
+
+Use👉👉 "http://localhost:4200"
+
+# For Json Structure 
+
+Open folder👉👉 src/assets/mockdata/navbar.json
+
+Have a good day and Happy New Year🎉🎉🎉🎉
+////////////////////////////////////////////////////////////////////////////////////////////////
+
 # TravlukTask
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 17.0.6.
